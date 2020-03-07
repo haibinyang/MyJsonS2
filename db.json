@@ -1,4 +1,18 @@
 {
+  "titles": [
+    {
+      "id": 1,
+      "title": "apple"
+    },
+    {
+      "id": 2,
+      "title": "blue"
+    },
+    {
+      "id": 3,
+      "title": "car"
+    }
+  ],
   "posts": [
     {
       "id": 1,
